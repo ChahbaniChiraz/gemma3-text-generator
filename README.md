@@ -35,7 +35,7 @@ Use the token in your script to authenticate.
 ---
 ### Notes
 The model is currently in gated preview and requires permission to access.
-
+---
 Keep your Hugging Face token private and do not share it publicly.
 ---
 ### License
