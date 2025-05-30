@@ -29,3 +29,22 @@ This project uses the Hugging Face Transformers library to load the Gemma 3 mode
 
 ```bash
 pip install transformers accelerate torch huggingface_hub
+### Authentication
+The model repository is gated and requires authentication via a Hugging Face token.
+
+Create a Hugging Face account at https://huggingface.co
+
+Generate a token in your settings with read access.
+
+Use the token in your script to authenticate.
+
+### Notes
+The model is currently in gated preview and requires permission to access.
+
+Keep your Hugging Face token private and do not share it publicly.
+
+### License
+Add your license here or write MIT License if you want open-source.
+
+### Contact
+Created by Chiraz Chahbani
